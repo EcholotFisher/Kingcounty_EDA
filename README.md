@@ -1,4 +1,4 @@
-# Kingcountry_EDA
+# Kingcounty_EDA
 First assignment - Diy at neuefische
 
 ```
