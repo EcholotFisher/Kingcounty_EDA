@@ -8,5 +8,7 @@ conda install -n kingcounty ipython
 conda install -n kingcounty jupyterlab
 conda install -n kingcounty seaborn
 conda install -n kingcounty sklearn
+conda install -n kingcounty statsmodels
+conda install -n kingcounty scikit-learn
  ```
 
